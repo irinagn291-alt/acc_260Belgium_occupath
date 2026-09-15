@@ -1,0 +1,15 @@
+The build settings include one usage-description string for the camera: This app does not use the camera. Camera access is never requested, so no permission dialog appears at launch or on any screen.
+
+There is no login, no in-app purchase, no user-generated content, no account deletion flow, and no App Tracking Transparency prompt.
+
+Occupath is a Marey desk for compiling a working timetable on single-line blocks. Time runs down, distance runs across. It is for heritage-railway volunteers, model railroaders, and amateur working-timetable compilers who need a pocket desk that refuses a second consist until the token is handed.
+
+No credentials or demo account are needed. Cold launch shows four plates titled Paint the path, Hand the token, Close the loop, and Commit the week. Tap Next on the first three pages, then Open the desk, or tap Skip on any page. The Marey desk opens with the current ISO week and the line Paint the path · Hand the token. If the plate is empty it reads The desk is empty and Enter the first measurement. Tap Enter measurement to open Measurement. Fill From milepost, To milepost, Tape, Clino, and Bearing, then tap Enter measurement. Tap Place a path to open Path. Enter Consist, Length, and a passing time at each milepost, then tap Paint the path. Tap Token occupation to Take the token or Hand the token. On iPhone tap More, then Inspector. On iPad Inspector sits beside the plate. Inspector shows Conflicts, Token hops, Loop feasible or Loop in exception, and Offer a meet. Tap a conflict on the plate or Offer a meet to open Meet, then Accept meet. When the loop can hold the shorter consist, tap Commit the board to commit the working board and open the next ISO week. Tap More, then Week ledger to open a listed working board. Tap More, then Settings for Contact Occupath, Re-run onboarding, and Reset all data.
+
+Working boards stay on this device. Contact Occupath opens the support page.
+
+Behaviour does not differ by region.
+
+No licence or regulated-industry paperwork applies. Occupath is a personal working-timetable log, not a licensed signalling product and not a medical device.
+
+The app is a personal log only and gives no recommendations.

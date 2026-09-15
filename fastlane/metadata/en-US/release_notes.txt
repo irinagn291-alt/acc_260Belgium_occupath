@@ -1,0 +1,11 @@
+This is the first Occupath release.
+
+Onboarding has four plates: Paint the path, Hand the token, Close the loop, and Commit the week. Next, Skip, and Open the desk reach the Marey desk.
+
+From the desk you can Enter measurement, Place a path, open Token occupation, open Inspector, open Week ledger, open Settings, and Commit the board.
+
+Measurement records From milepost, To milepost, Tape, Clino, and Bearing. Path records Consist, Length, and passing times, then Paint the path. Token occupation lets you Take the token or Hand the token. Meet lets you Accept meet to rewrite the later path.
+
+Week ledger lists working boards by ISO week. Settings holds Contact Occupath, Re-run onboarding, and Reset all data.
+
+Working boards stay on this device.

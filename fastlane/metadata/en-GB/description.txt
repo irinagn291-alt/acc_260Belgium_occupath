@@ -1,0 +1,11 @@
+Occupath is a Marey desk used to compile a working timetable. Time runs downwards, distance runs across. The Marey is the occupation, not a list of trains. It is for heritage-railway volunteers, railway modellers, and amateur compilers of working timetables.
+
+• Paint the path. Place a path opens Path. Enter Consist, Length and passing times at mileposts, then tap Paint the path.
+• Enter measurement. Measurement records From milepost, To milepost, Tape, Clino and Bearing.
+• Close the loop. Tape, clino and bearing reduce to a traverse. The desk shows a Depth section and a loop report with Loop feasible or Loop in exception. The board clears only when the loop holds the shorter consist.
+• Hand the token. Token occupation: one token per single-line block. Take the token or Hand the token. A second consist is refused until you hand it.
+• Accept meet. Meet rewrites the later path. Inspector lists Conflicts, Token hops and Offer a meet.
+• Commit the week. Commit the board commits the working board and opens the next ISO week. Week ledger lists working boards by ISO week.
+• Settings holds Contact Occupath, Re-run onboarding and Reset all data.
+
+Working boards remain on this device. There is no account and there are no in-app purchases.
