@@ -635,7 +635,7 @@
 				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOLS = NO;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 4;
+				CURRENT_PROJECT_VERSION = 5;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Occupath/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = Occupath;
@@ -653,7 +653,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.3;
+				MARKETING_VERSION = 1.4;
 				PRODUCT_BUNDLE_IDENTIFIER = com.occupath.week;
 				PRODUCT_NAME = Occupath;
 				SDKROOT = iphoneos;
@@ -791,7 +791,7 @@
 				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOLS = NO;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 4;
+				CURRENT_PROJECT_VERSION = 5;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Occupath/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = Occupath;
@@ -809,7 +809,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.3;
+				MARKETING_VERSION = 1.4;
 				PRODUCT_BUNDLE_IDENTIFIER = com.occupath.week;
 				PRODUCT_NAME = Occupath;
 				SDKROOT = iphoneos;
@@ -931,7 +931,7 @@
 			repositoryURL = "https://github.com/srfcsthpvf-prog/Alamofire";
 			requirement = {
 				kind = revision;
-				revision = 8a974e1e0961fe3134df593e2d7d67db3d4c2ad3;
+				revision = 3ea8e93ec37a3ae5f255afb529ef20f438dd1903;
 			};
 		};
 /* End XCRemoteSwiftPackageReference section */
